@@ -1,8 +1,8 @@
 # Readings
 
 ## Introductory readings
-- [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
-  - 12 Ideas generales acerca de Machine Learning
+- [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf): 12 Ideas generales acerca de Machine Learning
+- [2015 Lisbon Machine Learning School](http://lxmls.it.pt/2015/?page_id=24): Slides de las charlas
 
 ## Neural Networks
 #### General Ideas
