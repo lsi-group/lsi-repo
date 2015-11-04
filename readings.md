@@ -4,6 +4,10 @@
 - [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf): 12 Ideas generales acerca de Machine Learning
 - [2015 Lisbon Machine Learning School](http://lxmls.it.pt/2015/?page_id=24): Slides de las charlas
 
+## Natural Language Understanding
+- [Natural Language Understanding: Foundations and State-of-the-Art](http://icml.cc/2015/tutorials/icml2015-nlu-tutorial.pdf) by Percy Liang
+
+
 ## Neural Networks
 #### General Ideas
 - [A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas](http://arxiv.org/abs/1510.04781): Se trata de un survey que incluye el desarrollo de las redes neuronales a lo largo del tiempo, desde el perceptrón hasta los útlimos modelos basados en Deep RNN y DBN. Es muy interesante para comprender el "Big Picture" del area, conocer los diferentes modelos y sus aplicaciones
