@@ -18,7 +18,7 @@
 - [Does Deep Learning Come from the Devil?](http://www.kdnuggets.com/2015/10/deep-learning-vapnik-einstein-devil-yandex-conference.html): Post "critico" con el tema, planteando alguno de los problemas del area y de su aplicación práctica por parte de la comunidad científica (e.g., Big Data and Deep Learning as Brute Force)  
 
 #### Specific applications
-- [Natural Language Processing (Almost) from Scratch](http://arxiv.org/abs/1103.0398): El paper es un poco antiguo (2011), pero plantea una idea interesante. Trata de crear una suerte de modelo unificado para tareas de NLP (en contreto POS, Chunking, NER y Semantic Role Labelling) aplicando redes neuronales.
+- [Natural Language Processing (Almost) from Scratch](http://arxiv.org/abs/1103.0398): El paper es un poco antiguo (2011), pero plantea una idea interesante. Trata de crear una suerte de modelo unificado para tareas de NLP (en concreto POS, Chunking, NER y Semantic Role Labelling) aplicando redes neuronales.
 - [Deep Learning: Going Beyond Machine Learning](https://www.youtube.com/watch?v=Ra6m70d3t0o): Charla de Amazon sobre Deep Learning y sus aplicaciones.
 
 ##Reinforcement Learning
