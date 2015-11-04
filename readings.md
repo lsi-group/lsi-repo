@@ -21,7 +21,8 @@
   - El paper es un poco antiguo (2011), pero plantea una idea interesante. Trata de crear una suerte de modelo unificado para tareas de NLP (en contreto POS, Chunking, NER y Semantic Role Labelling) aplicando redes neuronales.
 
 ##Reinforcement Learning
--[Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
+
+- [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
   - Libro de introducción al tema, incluyendo
 
 ## Probability
