@@ -9,3 +9,5 @@
 - [spaCy](http://spacy.io/):  library for industrial-strength NLP in Python and Cython
 
 - [SW Links](http://deeplearning.net/software_links/): Recopilación de herramientas SW relaccionadas
+
+- [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html): Curso Onlin de Stanford sobre Deep Learning
