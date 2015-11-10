@@ -10,7 +10,7 @@
 - [SW Links](http://deeplearning.net/software_links/): Recopilación de herramientas SW relaccionadas
 
 - [TensorFlow](http://tensorflow.org/): Open Source SW for Machine Learning desarrollado por Google, especialmente enfocado a Machine Learning
-- 
+
 #### Cursos
 
 - [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html): Curso Online de Stanford sobre Deep Learning
