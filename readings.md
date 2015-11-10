@@ -15,7 +15,8 @@
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
-- [Does Deep Learning Come from the Devil?](http://www.kdnuggets.com/2015/10/deep-learning-vapnik-einstein-devil-yandex-conference.html): Post "critico" con el tema, planteando alguno de los problemas del area y de su aplicación práctica por parte de la comunidad científica (e.g., Big Data and Deep Learning as Brute Force)  
+- [Does Deep Learning Come from the Devil?](http://www.kdnuggets.com/2015/10/deep-learning-vapnik-einstein-devil-yandex-conference.html): Post "critico" con el tema, planteando alguno de los problemas del area y de su aplicación práctica por parte de la comunidad científica (e.g., Big Data and Deep Learning as Brute Force)
+- [Entrevista a Yann Lecun](https://www.newscientist.com/article/dn28456-im-going-to-make-facebooks-ai-predict-what-happen-in-videos/): Entrevista con el Director de IA de Facebook
 
 #### Specific applications
 - [Natural Language Processing (Almost) from Scratch](http://arxiv.org/abs/1103.0398): El paper es un poco antiguo (2011), pero plantea una idea interesante. Trata de crear una suerte de modelo unificado para tareas de NLP (en concreto POS, Chunking, NER y Semantic Role Labelling) aplicando redes neuronales.
