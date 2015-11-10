@@ -11,7 +11,8 @@
 ## Neural Networks
 #### General Ideas
 - [A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas](http://arxiv.org/abs/1510.04781): Se trata de un survey que incluye el desarrollo de las redes neuronales a lo largo del tiempo, desde el perceptrón hasta los útlimos modelos basados en Deep RNN y DBN. Es muy interesante para comprender el "Big Picture" del area, conocer los diferentes modelos y sus aplicaciones
-- [Deep Learning (Libro)](http://www.iro.umontreal.ca/~bengioy/dlbook/version-07-08-2015/dlbook.html): Se trata de un libro que está en proceso de desarrollo, se puede acceder a los capitulos ya escritos (está bastante avanzado). El libro está escrito por uno de los "gurus" del area (Yoshua Bengio) y se trata de una revisión general del area, entrando en detalle en cada uno de los modelos, su entrenamiento, optmización, etc... 
+- [Deep Learning (Libro)](http://www.iro.umontreal.ca/~bengioy/dlbook/version-07-08-2015/dlbook.html): Se trata de un libro que está en proceso de desarrollo, se puede acceder a los capitulos ya escritos (está bastante avanzado). El libro está escrito por uno de los "gurus" del area (Yoshua Bengio) y se trata de una revisión general del area, entrando en detalle en cada uno de los modelos, su entrenamiento, optmización, etc...
+- [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/): Escuela de Verano sobre Deep Learning
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
