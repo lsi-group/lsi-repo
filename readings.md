@@ -22,7 +22,8 @@
 #### Specific applications
 - [Natural Language Processing (Almost) from Scratch](http://arxiv.org/abs/1103.0398): El paper es un poco antiguo (2011), pero plantea una idea interesante. Trata de crear una suerte de modelo unificado para tareas de NLP (en concreto POS, Chunking, NER y Semantic Role Labelling) aplicando redes neuronales.
 - [Deep Learning: Going Beyond Machine Learning](https://www.youtube.com/watch?v=Ra6m70d3t0o): Charla de Amazon sobre Deep Learning y sus aplicaciones.
-- [Deep Learning for Natural Language Processing](http://21ct.com/blog/deep-learning-for-natural-language-processing/) Blog post hablando del estado del arte de DL for NLP e ideas acerca de futuros desarrollos
+- [Deep Learning for Natural Language Processing](http://21ct.com/blog/deep-learning-for-natural-language-processing/): Blog post hablando del estado del arte de DL for NLP e ideas acerca de futuros desarrollos
+- [Understanding Convolutional Neural Networks for NLP](http://www.kdnuggets.com/2015/11/understanding-convolutional-neural-networks-nlp.html): Blog post que habla sobre el uso cd CNN aplicadas a NLP. Explica brevemente la operación de convolución y la idea de CNN aplicada a Image Classification. A continuación explica la idea tras su aplicación para NLP. Finalmente recopila algunos ejemplos interesantes en el estado del arte.
 
 ##Reinforcement Learning
 - [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf): Libro de introducción al tema
