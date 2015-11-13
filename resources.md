@@ -16,6 +16,7 @@
 - [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html): Curso Online de Stanford sobre Deep Learning
 
 - [Neural Nets and Machine Learning](https://www.coursera.org/course/neuralnets): Curso en Coursera sobre Artificial Neural Networks y su aplicación para Machine Learning
+- [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/): Video Lectures de la Summer School en Deep Learning.
  
 
 #### Otros
