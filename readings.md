@@ -37,8 +37,6 @@
 ## word2vec
 - [word2vec Tutorial](http://rare-technologies.com/word2vec-tutorial/)
 - [Making Sense of word2vec](http://rare-technologies.com/making-sense-of-word2vec/)
-- 
-
 
 ## Generative vs Discriminative
 - [On Discriminative vs. Generative classifiers](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
