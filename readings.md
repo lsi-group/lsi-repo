@@ -28,7 +28,7 @@
 
 ##Reinforcement Learning
 - [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf): Libro de introducción al tema
-- [Human-level control through deep reinforcement learning] (http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html): Reinforced learning aplicado a Space Invaders
+- [Human-level control through deep reinforcement learning](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html): Reinforced learning aplicado a Space Invaders
 
 ## Probability
 - [Probability, Paradox, and the Reasonable Person Principle](http://nbviewer.ipython.org/url/norvig.com/ipython/Probability.ipynb)
@@ -38,13 +38,15 @@
 - [word2vec Tutorial](http://rare-technologies.com/word2vec-tutorial/)
 - [Making Sense of word2vec](http://rare-technologies.com/making-sense-of-word2vec/)
 - 
+
+
 ## Generative vs Discriminative
-[On Discriminative vs. Generative classifiers](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
-[Machine learning (Stanford)](https://www.youtube.com/watch?v=qRJ3GKMOFrE)
+- [On Discriminative vs. Generative classifiers](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
+- [Machine learning (Stanford)](https://www.youtube.com/watch?v=qRJ3GKMOFrE)
 
 ## Generative models
-[Structured Generative Models of Natural Source Code](http://jmlr.org/proceedings/papers/v32/maddison14.pdf)
-[A fast and simple algorithm for training neural probabilistic
+- [Structured Generative Models of Natural Source Code](http://jmlr.org/proceedings/papers/v32/maddison14.pdf)
+- [A fast and simple algorithm for training neural probabilistic
 language models](https://www.cs.toronto.edu/~amnih/papers/ncelm.pdf)
 
 ## Other stuff
