@@ -52,3 +52,9 @@ language models](https://www.cs.toronto.edu/~amnih/papers/ncelm.pdf)
 
 ## Other stuff
 - [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
+- 
+## Other Reading Groups
+- [Edinburgh](https://wiki.inf.ed.ac.uk/MLforNLP/WebHome)
+- [Cambridge](http://www.wiki.cl.cam.ac.uk/rowiki/NaturalLanguage/ReadingGroup)
+- [Heriot-Watt](https://sites.google.com/site/hwmlreadinggroup/)
+- [Toronto](http://learning.cs.toronto.edu/mlreading.html)
