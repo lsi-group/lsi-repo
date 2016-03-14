@@ -23,3 +23,4 @@
 #### Otros
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning): Recopilación (awesome) de lecturas, cursos, sw, papers, etc...
 - [Awesome NLP](https://github.com/keonkim/awesome-nlp): Recopilación de recursos para NLP
+- http://sci-hub.io/
