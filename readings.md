@@ -3,6 +3,8 @@
 ## Introductory readings
 - [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf): 12 Ideas generales acerca de Machine Learning
 - [2015 Lisbon Machine Learning School](http://lxmls.it.pt/2015/?page_id=24): Slides de las charlas
+- [P Value and the Theory of Hypothesis Testing: An Explanation for New Researchers](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2816758/pdf/11999_2009_Article_1164.pdf): Paper introductorio sobre la validación de hipotesis mediante p-values
+- [Towards Machine Intelligence](http://arxiv.org/pdf/1603.08262v1.pdf): Ideas generales sobre los principios que debería seguir un algoritmo de aprendizaje de proposito general.
 
 ## Natural Language Understanding
 - [Natural Language Understanding: Foundations and State-of-the-Art](http://icml.cc/2015/tutorials/icml2015-nlu-tutorial.pdf) by Percy Liang
