@@ -2,6 +2,9 @@
 
 ## Deep Learning
 
+#### Datasets
+- [Google BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/): Pagina de Google que recopila varios datasets públicos que pueden ser accedidos a través de BigQuery.
+
 #### Herramientas
 - [deeplearning4j](http://deeplearning4j.org/): Libreria Deep Learning en Java (está en una etapa inicial pero parece que su desarrollo es rápido)
 
