@@ -1,5 +1,11 @@
 # Resources
 
+## Machine Learning
+
+#### Herramientas
+
+- [Top 15 Frameworks for Machine Learning Experts](http://www.kdnuggets.com/2016/04/top-15-frameworks-machine-learning-experts.html): Recopilación de frameworks para Machine Learning
+
 ## Deep Learning
 
 #### Datasets
