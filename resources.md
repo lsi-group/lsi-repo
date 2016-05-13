@@ -5,6 +5,7 @@
 #### Herramientas
 
 - [Top 15 Frameworks for Machine Learning Experts](http://www.kdnuggets.com/2016/04/top-15-frameworks-machine-learning-experts.html): Recopilación de frameworks para Machine Learning
+- [SyntaxNet](http://googleresearch.blogspot.com.es/2016/05/announcing-syntaxnet-worlds-most.html):  Parser de Google para aprender a analizar la estructura lingüística del lenguaje (para Inglés).
 
 ## Deep Learning
 
@@ -20,6 +21,7 @@
 
 - [TensorFlow](http://tensorflow.org/): Open Source SW for Machine Learning desarrollado por Google, especialmente enfocado a Machine Learning
 - [Deep Belief Nets for Topic Modeling](https://github.com/larsmaaloee/deep-belief-nets-for-topic-modeling): Libreria en Python para generar (supervised) topic modelling dada una colección de textos aplicando DBN.
+- [Wikipedia Navigation Vectors](https://figshare.com/articles/Wikipedia_Vectors/3146878): Embeddings de artículos de Wikipedia y Wikidata generados mediante la aplicación de modelos Word2vec.
 
 #### Cursos
 
