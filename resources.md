@@ -1,5 +1,11 @@
 # Resources
 
+## NLP
+
+#### Herramientas
+
+-[BookNLP](https://github.com/dbamman/book-nlp): NLP pipeline que incluye herramientas para el procesado de textos largos, como por ejemplo libros.
+
 ## Machine Learning
 
 #### Herramientas
