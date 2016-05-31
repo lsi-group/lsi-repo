@@ -40,4 +40,6 @@
 #### Otros
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning): Recopilación (awesome) de lecturas, cursos, sw, papers, etc...
 - [Awesome NLP](https://github.com/keonkim/awesome-nlp): Recopilación de recursos para NLP
-- http://sci-hub.io/
+- [Sci-Hub](http://sci-hub.io/): Página para descargar Libros y Papers que no están públicos
+- [The Talking Machines](http://www.thetalkingmachines.com/): Podcast de Machine Learning que trata diversos temas y presenta papers tanto de actualidad como clásicos en el estado del arte. Además, para cada episodio ofrece una lista de recursos sobre los temas que han estado hablando
+
