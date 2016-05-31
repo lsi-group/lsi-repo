@@ -30,6 +30,7 @@
 - [Understanding Convolutional Neural Networks for NLP](http://www.kdnuggets.com/2015/11/understanding-convolutional-neural-networks-nlp.html): Blog post que habla sobre el uso cd CNN aplicadas a NLP. Explica brevemente la operación de convolución y la idea de CNN aplicada a Image Classification. A continuación explica la idea tras su aplicación para NLP. Finalmente recopila algunos ejemplos interesantes en el estado del arte.
 - [Top 5 arXiv Deep Learning Papers, Explained](http://www.kdnuggets.com/2015/10/top-arxiv-deep-learning-papers-explained.html/2)
 - [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
+- [CRF as RNN](http://www.robots.ox.ac.uk/~szheng/papers/CRFasRNN.pdf): Paper que presenta una conexión entre Conditional Random Fields y Recurrent Neural Networks
 
 ##Reinforcement Learning
 - [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf): Libro de introducción al tema
