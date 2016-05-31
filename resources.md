@@ -1,5 +1,8 @@
 # Resources
 
+## General
+- [Metacademy](https://metacademy.org/): Recurso para buscar conceptos del area de Machine Learning. El valor añadido de la herramienta es que crea un grafo con todos los conceptos relacionados al buscado y que se deberían conocer para comprenderlo. Además crea un "roadmap" para aprender de manera ordenada estos conceptos relacionados que se requieren para comprender el concepto buscado, hasta llegar al propio concepto buscado.
+
 ## NLP
 
 #### Herramientas
