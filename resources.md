@@ -15,6 +15,7 @@
 
 - [Top 15 Frameworks for Machine Learning Experts](http://www.kdnuggets.com/2016/04/top-15-frameworks-machine-learning-experts.html): Recopilación de frameworks para Machine Learning
 - [SyntaxNet](http://googleresearch.blogspot.com.es/2016/05/announcing-syntaxnet-worlds-most.html):  Parser de Google para aprender a analizar la estructura lingüística del lenguaje (para Inglés).
+- [Flux Capacitor](https://github.com/fluxcapacitor/pipeline/wiki): "Una herramienta para gobernarlas a todas". Full Machine Learning pipeline que integra gran parte de las aplicaciones punteras del area (Spark, Stanford NLP, Hadoop...). La idea es que permite crear un pipeline desde la lectura de los datos, pasando por su análisis, anotación etc... hasta su visualización.
 
 ## Deep Learning
 
