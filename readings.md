@@ -13,6 +13,7 @@
 ## Neural Networks
 #### General Ideas
 - [A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas](http://arxiv.org/abs/1510.04781): Se trata de un survey que incluye el desarrollo de las redes neuronales a lo largo del tiempo, desde el perceptrón hasta los útlimos modelos basados en Deep RNN y DBN. Es muy interesante para comprender el "Big Picture" del area, conocer los diferentes modelos y sus aplicaciones
+- [Text Understanding from Scratch](https://arxiv.org/pdf/1502.01710v5.pdf) NLU (Topic detection) utilizando redes neuronales a nivel de caracter.
 - [Evolution of Deep learning models](http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A305709): Recopilación de modelos de Redes Neuronales y su evolución a lo largo del tiempo.
 - [Deep Learning (Libro)](http://www.deeplearningbook.org/): Se trata de un libro que está en proceso de desarrollo, se puede acceder a los capitulos ya escritos (está bastante avanzado). El libro está escrito por uno de los "gurus" del area (Yoshua Bengio) y se trata de una revisión general del area, entrando en detalle en cada uno de los modelos, su entrenamiento, optmización, etc...
 - [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/): Escuela de Verano sobre Deep Learning
