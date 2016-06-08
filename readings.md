@@ -13,7 +13,6 @@
 ## Neural Networks
 #### General Ideas
 - [A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas](http://arxiv.org/abs/1510.04781): Se trata de un survey que incluye el desarrollo de las redes neuronales a lo largo del tiempo, desde el perceptrón hasta los útlimos modelos basados en Deep RNN y DBN. Es muy interesante para comprender el "Big Picture" del area, conocer los diferentes modelos y sus aplicaciones
-- [Text Understanding from Scratch](https://arxiv.org/pdf/1502.01710v5.pdf) NLU (Topic detection) utilizando redes neuronales a nivel de caracter.
 - [Evolution of Deep learning models](http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A305709): Recopilación de modelos de Redes Neuronales y su evolución a lo largo del tiempo.
 - [Deep Learning (Libro)](http://www.deeplearningbook.org/): Se trata de un libro que está en proceso de desarrollo, se puede acceder a los capitulos ya escritos (está bastante avanzado). El libro está escrito por uno de los "gurus" del area (Yoshua Bengio) y se trata de una revisión general del area, entrando en detalle en cada uno de los modelos, su entrenamiento, optmización, etc...
 - [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/): Escuela de Verano sobre Deep Learning
@@ -28,6 +27,7 @@
 
 #### Specific applications
 - [Natural Language Processing (Almost) from Scratch](http://arxiv.org/abs/1103.0398): El paper es un poco antiguo (2011), pero plantea una idea interesante. Trata de crear una suerte de modelo unificado para tareas de NLP (en concreto POS, Chunking, NER y Semantic Role Labelling) aplicando redes neuronales.
+- [Text Understanding from Scratch](https://arxiv.org/pdf/1502.01710v5.pdf) NLU (Topic detection) utilizando redes neuronales a nivel de caracter.
 - [Deep Learning: Going Beyond Machine Learning](https://www.youtube.com/watch?v=Ra6m70d3t0o): Charla de Amazon sobre Deep Learning y sus aplicaciones.
 - [Deep Learning for Natural Language Processing](http://21ct.com/blog/deep-learning-for-natural-language-processing/): Blog post hablando del estado del arte de DL for NLP e ideas acerca de futuros desarrollos
 - [Understanding Convolutional Neural Networks for NLP](http://www.kdnuggets.com/2015/11/understanding-convolutional-neural-networks-nlp.html): Blog post que habla sobre el uso cd CNN aplicadas a NLP. Explica brevemente la operación de convolución y la idea de CNN aplicada a Image Classification. A continuación explica la idea tras su aplicación para NLP. Finalmente recopila algunos ejemplos interesantes en el estado del arte.
