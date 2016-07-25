@@ -24,6 +24,7 @@
 - [Entrevista a Yann Lecun](https://www.newscientist.com/article/dn28456-im-going-to-make-facebooks-ai-predict-what-happen-in-videos/): Entrevista con el Director de IA de Facebook
 - [When Does Deep Learning Work Better Than SVMs or Random Forests?](http://www.kdnuggets.com/2016/04/deep-learning-vs-svm-random-forest.html): Breve post de KDnuggets al respecto
 - [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](http://papers.nips.cc/paper/5486-identifying-and-attacking-the-saddle-point-problem-in-high-dimensional-non-convex-optimization.pdf): Paper del grupo de Yoshua Bengio que presenta una idea interesante acerca de los problemas de optimización (en el ámbito de las redes neuronales) en espacion multidimensionales que no son convexos, basado en el concepto de saddle point.
+- [How to Start Learning Deep Learning](http://www.kdnuggets.com/2016/07/start-learning-deep-learning.html) Guia de KDnuggets con una lista de recursos de iniciación a deep learning
 
 #### Specific applications
 - [Natural Language Processing (Almost) from Scratch](http://arxiv.org/abs/1103.0398): El paper es un poco antiguo (2011), pero plantea una idea interesante. Trata de crear una suerte de modelo unificado para tareas de NLP (en concreto POS, Chunking, NER y Semantic Role Labelling) aplicando redes neuronales.
