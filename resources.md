@@ -11,6 +11,7 @@
 #### Herramientas
 
 - [BookNLP](https://github.com/dbamman/book-nlp): NLP pipeline que incluye herramientas para el procesado de textos largos, como por ejemplo libros.
+- [CLOUD NATURAL LANGUAGE AP](https://cloud.google.com/natural-language/): API de Google integrando varias herramientas de NLP (NER, Sentiment Analysis, Syntax Parsing).
 
 ## Machine Learning
 
