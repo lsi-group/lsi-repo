@@ -3,6 +3,7 @@ no son competiciones yo creo que para empezar está bien son datos limpitos y ta
 - [Ejemplo fraude](https://www.kaggle.com/dalpozz/creditcardfraud): esta es muy facilita es de clasificación y cuando hice cosas con ella estaba guay porque todo el trabajo a hacer es de refinado de modelos
 - [Ejemplo cancer](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data): esta otra también es clasificación tiene muy pocos datos, pero está guay ver si puedes generar nuevas features de las que ya existen o aplicando deeplearning puedes componerlas automáticamente
 - [Ejemplo churn prediction](https://www.kaggle.com/sanjaym0410/d/ludobenistant/hr-analytics/hr-analytics-complete-analysis-and-prediction): esta otra ya es una tarea un poco más compleja, tiene más chicha es una cosa que en telefonía se hace mucho que se llama churn prediction que es predecir cuando se va a dar de baja un cliente Yo creo que en cuanto saquemos cosas guays con esas nos podemos meter ya con competiciones de verdad
+- [European Soccer Database](https://www.kaggle.com/hugomathien/soccer): Fútbol!!
 
 Dentro de cada colección, hay una sección que se llama Kernels ahí lo que hay son análisis que hace la gente de las colecciónes en notebooks  está bien leerlos antes de empezar a hacer cosas para ver cual es el trabajo de verdad de data science
 
