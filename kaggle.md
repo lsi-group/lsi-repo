@@ -18,3 +18,10 @@ si nos vamos a h2o lo podemos hacer en local, que es lo más facil en databricks
 #Competiciones KDnuggets
 - [Real-Time Crime Forecasting Challenge](https://nij.gov/funding/Pages/fy16-crime-forecasting-challenge.aspx): The Real-Time Crime Forecasting Challenge seeks to harness the advances in ​data science to address the challenges of cri​me and justice. It encourages data scientists across all scientific disciplines to foster innovation in forecasting methods. The goal is to develop algorithms that advance place-based crime forecasting through the use of data from one police jurisdiction.
 - [Parkinson](https://michaeljfox.org/ppmidatachallenge2016): Esta ya pasó la fecha, pero por si acaso queréis echarle un vistazo, está interesante.
+
+
+#Objetivos (qué queremos aprender)
+- Data scientist low level - limpiar, entender datos, tratar con nulos. Qué procesos facilitan las tareas en general.
+- Data scientist high level - Entender modelos a alto nivel, Deep learning, que modelos usar en cada tarea
+- Paralelización - databriks, librerías para un PC/cluster. Tradeoff instalación/aprendizaje y velocidad.
+- NLP - modelos de NLP, cuales hay y como escoger el apropiado, qué librerías y qué colecciones/tareas hay disponibles
