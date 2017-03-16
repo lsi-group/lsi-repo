@@ -44,6 +44,7 @@
 
 - [Neural Nets and Machine Learning](https://www.coursera.org/course/neuralnets): Curso en Coursera sobre Artificial Neural Networks y su aplicación para Machine Learning
 - [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/): Video Lectures de la Summer School en Deep Learning.
+- [Reinforced Learning](https://github.com/yandexdataschool/Practical_RL): A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (russian) and maintained to be friendly to online students (both english and russian).
  
 
 #### Otros
