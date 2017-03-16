@@ -45,6 +45,7 @@
 - [Neural Nets and Machine Learning](https://www.coursera.org/course/neuralnets): Curso en Coursera sobre Artificial Neural Networks y su aplicación para Machine Learning
 - [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/): Video Lectures de la Summer School en Deep Learning.
 - [Reinforced Learning](https://github.com/yandexdataschool/Practical_RL): A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (russian) and maintained to be friendly to online students (both english and russian).
+-[Oxford Deep NLP 2017](https://github.com/oxford-cs-deepnlp-2017/lectures): This repository contains the lecture slides and course description for the Deep Natural Language Processing course offered in Hilary Term 2017 at the University of Oxford (Profesores de Deepmind). 
  
 
 #### Otros
