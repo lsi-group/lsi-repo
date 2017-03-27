@@ -28,6 +28,7 @@
 - [Why Do Deep Learning Networks Scale?](http://www.kdnuggets.com/2016/07/deep-learning-networks-scale.html): Discusión matemática acerca de por qué las redes neuronales escalan y no sobre-entrenan
 - [In Deep Learning, Architecture Engineering is the New Feature Engineering](http://www.kdnuggets.com/2016/07/deep-learning-architecture-engineering-feature-engineering.html): Post que reflexiona sobre lo que llama "architecture engineering en el ámbito de las redes neuronales. Mientras que es cierto que las redes neuronales han eliminado gran parte de la necesidad de hacer feature engineering (o al menos eso prometen), es necesarío tomar una serie de decisiones acerca del tipo y de arquitectura de la red, la cuales tienen gran impacto en su rendimiento final. Sería deseable que esa arquitectura fuese generada automáticamente o aprendida en lugar de tener que ser "hard-coded".
 - [A Guide to Deep Learning](http://yerevann.com/a-guide-to-deep-learning/) Videos y recursos con los conceptos basicos de DL, incluyendo CNN, RNN, autoencoders y PGM.
+- [Adversarial Autoencoders (with Pytorch)](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/): Autoencoders, Adversarial Autoencodes, Denoising Autoencoders, Variational Autoencoders.
 
 
 #### Specific applications
