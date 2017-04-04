@@ -77,11 +77,11 @@
 
 ## Generative models
 - [Structured Generative Models of Natural Source Code](http://jmlr.org/proceedings/papers/v32/maddison14.pdf)
-- [A fast and simple algorithm for training neural probabilistic
-language models](https://www.cs.toronto.edu/~amnih/papers/ncelm.pdf)
+- [A fast and simple algorithm for training neural probabilistic language models](https://www.cs.toronto.edu/~amnih/papers/ncelm.pdf)
 
 ## Other stuff
 - [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
+- [Distill](http://distill.pub) A journal devoted to clear explanations native to the web (neural networks)
 
 ## Visualization
 - [tSNE](http://distill.pub/2016/misread-tsne/): Guía, con ejemplos, para interpretar las visualizaciones generadas por tSNE
@@ -92,3 +92,5 @@ language models](https://www.cs.toronto.edu/~amnih/papers/ncelm.pdf)
 - [Cambridge](http://www.wiki.cl.cam.ac.uk/rowiki/NaturalLanguage/ReadingGroup)
 - [Heriot-Watt](https://sites.google.com/site/hwmlreadinggroup/)
 - [Toronto](http://learning.cs.toronto.edu/mlreading.html)
+
+
