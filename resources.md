@@ -71,6 +71,8 @@
 
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow): Recopilación de experimentos, librerías y recursos de Tensorflow.
 
+- [Models built with TensorFlow](https://github.com/tensorflow/models): This repository contains machine learning models implemented in TensorFlow
+
 #### Cursos
 
 - [Neural Nets and Machine Learning](https://www.coursera.org/course/neuralnets): Curso en Coursera sobre Artificial Neural Networks y su aplicación para Machine Learning
