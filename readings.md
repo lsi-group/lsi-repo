@@ -24,6 +24,7 @@
 
 ## Neural Networks
 - [Deep Learning Reading List](http://deeplearning.net/reading-list/): Lista de lectura y survey papers en relacin con Deep Learning y Redes Neuronales
+- [DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/): Transparencias de la escuela de verano de DL de Montreal.
 
 #### General Ideas
 - [A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas](http://arxiv.org/abs/1510.04781): Se trata de un survey que incluye el desarrollo de las redes neuronales a lo largo del tiempo, desde el perceptrón hasta los útlimos modelos basados en Deep RNN y DBN. Es muy interesante para comprender el "Big Picture" del area, conocer los diferentes modelos y sus aplicaciones
